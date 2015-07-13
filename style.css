@@ -1,0 +1,39 @@
+body{
+    color: #666;
+    background-color: #f8f8f8 ;
+    border-color:gray;
+}
+
+table{
+
+}
+table th{
+    background-color: #90b4d6;
+    
+}
+table td{
+    background-color: #e0e9f0;
+}
+form{
+    background-color: white;
+    width:380px;
+}
+#name{
+   margin-left: 70px; 
+}
+#email{
+    margin-left: 70px;
+}
+#select{
+    margin-left: 21px;
+}
+#yes{
+    margin-left: 20px;
+}
+#no{
+    margin-left: 70px;
+}
+#reg{
+    margin-left: 250px;
+    background-color: green;
+}
